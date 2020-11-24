@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observers", "Observers\Observers.csproj", "{139395B5-3F8D-44F6-B201-C90887653D50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{ADAE0CD5-1D30-4605-9710-C8777DA959EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{139395B5-3F8D-44F6-B201-C90887653D50}.Release|x64.Build.0 = Release|Any CPU
 		{139395B5-3F8D-44F6-B201-C90887653D50}.Release|x86.ActiveCfg = Release|Any CPU
 		{139395B5-3F8D-44F6-B201-C90887653D50}.Release|x86.Build.0 = Release|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Debug|x64.Build.0 = Debug|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Debug|x86.Build.0 = Debug|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Release|x64.ActiveCfg = Release|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Release|x64.Build.0 = Release|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Release|x86.ActiveCfg = Release|Any CPU
+		{ADAE0CD5-1D30-4605-9710-C8777DA959EB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
